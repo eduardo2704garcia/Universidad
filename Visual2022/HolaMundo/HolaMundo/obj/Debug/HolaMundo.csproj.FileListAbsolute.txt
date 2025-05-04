@@ -1,0 +1,12 @@
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.FrmInicio.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Properties.Resources.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.GenerateResource.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.FrmOperaciones.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\HolaMundo\HolaMundo\obj\Debug\HolaMundo.FrmOperaciones2.resources

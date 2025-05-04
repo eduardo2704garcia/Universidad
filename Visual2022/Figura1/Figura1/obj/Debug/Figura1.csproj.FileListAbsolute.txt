@@ -1,0 +1,42 @@
+C:\Users\Marcos\source\repos\Figura1\Figura1\bin\Debug\Figura1.exe.config
+C:\Users\Marcos\source\repos\Figura1\Figura1\bin\Debug\Figura1.exe
+C:\Users\Marcos\source\repos\Figura1\Figura1\bin\Debug\Figura1.pdb
+C:\Users\Marcos\source\repos\Figura1\Figura1\obj\Debug\Figura1.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\Figura1\Figura1\obj\Debug\Figura1.FrmRectangle.resources
+C:\Users\Marcos\source\repos\Figura1\Figura1\obj\Debug\Figura1.Properties.Resources.resources
+C:\Users\Marcos\source\repos\Figura1\Figura1\obj\Debug\Figura1.csproj.GenerateResource.cache
+C:\Users\Marcos\source\repos\Figura1\Figura1\obj\Debug\Figura1.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\Figura1\Figura1\obj\Debug\Figura1.exe
+C:\Users\Marcos\source\repos\Figura1\Figura1\obj\Debug\Figura1.pdb
+C:\Users\Marcos\source\repos\Figura1\Figura1\obj\Debug\Figura1.FrmSquare.resources
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\bin\Debug\Figura1.exe.config
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\bin\Debug\Figura1.exe
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\bin\Debug\Figura1.pdb
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\obj\Debug\Figura1.csproj.AssemblyReference.cache
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\obj\Debug\Figura1.FrmRectangle.resources
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\obj\Debug\Figura1.FrmSquare.resources
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\obj\Debug\Figura1.Properties.Resources.resources
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\obj\Debug\Figura1.csproj.GenerateResource.cache
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\obj\Debug\Figura1.csproj.CoreCompileInputs.cache
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\obj\Debug\Figura1.exe
+C:\Users\LABS-ESPE\Desktop\GRAFICA\Figura1\Figura1\obj\Debug\Figura1.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.csproj.AssemblyReference.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmCircle.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmRectangle.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmSquare.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.Properties.Resources.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.csproj.GenerateResource.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.csproj.CoreCompileInputs.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\bin\Debug\Figura1.exe.config
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\bin\Debug\Figura1.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\bin\Debug\Figura1.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmTriangle.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmEllipse.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmSemicircle.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmTrapezoid.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmRhombus.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmRhombusoid.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmDeltoid.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmStar.resources

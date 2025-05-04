@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\figura1\\figura1\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|solutionrelative:figura1\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\figura1\\figura1\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|solutionrelative:figura1\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\figura1\\figura1\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|solutionrelative:figura1\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\figura1\\figura1\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|solutionrelative:figura1\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\figura1\\figura1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|solutionrelative:figura1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\figura1\\figura1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|solutionrelative:figura1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\figura1\\figura1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6366F603-9DBB-4B8D-BE28-5411EC228048}|Figura1\\Figura1.csproj|solutionrelative:figura1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmTrapezoid.cs",
+              "RelativeDocumentMoniker": "Figura1\\FrmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmTrapezoid.cs",
+              "RelativeToolTip": "Figura1\\FrmTrapezoid.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:27:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTrapezoid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmTrapezoid.cs",
+              "RelativeDocumentMoniker": "Figura1\\FrmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmTrapezoid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figura1\\FrmTrapezoid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:27:16.61Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmRhombus.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmRhombus.cs",
+              "RelativeDocumentMoniker": "Figura1\\FrmRhombus.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmRhombus.cs",
+              "RelativeToolTip": "Figura1\\FrmRhombus.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAApwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:26:56.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmRhombus.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmRhombus.cs",
+              "RelativeDocumentMoniker": "Figura1\\FrmRhombus.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmRhombus.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figura1\\FrmRhombus.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:26:52.738Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSquare.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "Figura1\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmSquare.cs",
+              "RelativeToolTip": "Figura1\\FrmSquare.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAhwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:21:52.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSquare.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "Figura1\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmSquare.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figura1\\FrmSquare.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:21:43.024Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRectangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "Figura1\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Figura1\\Figura1\\FrmRectangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figura1\\FrmRectangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:25:34.38Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
