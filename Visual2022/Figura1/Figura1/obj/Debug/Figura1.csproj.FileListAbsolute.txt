@@ -40,3 +40,7 @@ C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figu
 C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmRhombusoid.resources
 C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmDeltoid.resources
 C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmStar.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmHome.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmLine.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmEjercicio1.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Figura1\Figura1\obj\Debug\Figura1.FrmEjercicio2.resources

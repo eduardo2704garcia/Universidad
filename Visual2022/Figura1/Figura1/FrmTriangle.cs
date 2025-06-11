@@ -6,10 +6,23 @@ namespace Figura1
     public partial class FrmTriangle : Form
     {
         private Triangle triangle = new Triangle();
+        private static FrmTriangle formulario;
 
         public FrmTriangle()
         {
             InitializeComponent();
+        }
+
+        public static FrmTriangle callForm
+        {
+            get
+            {
+                if (formulario == null || formulario.IsDisposed)
+                {
+                    formulario = new FrmTriangle();
+                }
+                return formulario;
+            }
         }
 
         private void FrmTriangle_Load(object sender, EventArgs e)

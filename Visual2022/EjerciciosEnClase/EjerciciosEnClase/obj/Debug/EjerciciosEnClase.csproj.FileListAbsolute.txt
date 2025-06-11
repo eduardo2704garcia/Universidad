@@ -1,0 +1,11 @@
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\EjerciciosEnClase.csproj.AssemblyReference.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\EjerciciosEnClase.FrmHexagono.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\EjerciciosEnClase.Properties.Resources.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\EjerciciosEnClase.csproj.GenerateResource.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\EjerciciosEnClase.csproj.CoreCompileInputs.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\EjerciciosEnClase.exe.config
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\EjerciciosEnClase.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\EjerciciosEnClase.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\EjerciciosEnClase.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\EjerciciosEnClase.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\EjerciciosEnClase.FrmMargarita.resources

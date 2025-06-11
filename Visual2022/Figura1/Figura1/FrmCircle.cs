@@ -6,10 +6,23 @@ namespace Figura1
     public partial class FrmCircle : Form
     {
         private Circle circle = new Circle();
+        private static FrmCircle formulario;
 
         public FrmCircle()
         {
             InitializeComponent();
+        }
+
+        public static FrmCircle callForm
+        {
+            get
+            {
+                if (formulario == null || formulario.IsDisposed)
+                {
+                    formulario = new FrmCircle();
+                }
+                return formulario;
+            }
         }
 
         private void FrmCircle_Load(object sender, EventArgs e)

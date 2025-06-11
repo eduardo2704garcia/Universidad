@@ -13,11 +13,24 @@ namespace Figura1
     public partial class FrmRectangle : Form
     {
         private Rectangle rectangle = new Rectangle();
+        private static FrmRectangle formulario;
         public FrmRectangle()
         {
             InitializeComponent();
         }
-        
+
+        public static FrmRectangle callForm
+        {
+            get
+            {
+                if (formulario == null || formulario.IsDisposed)
+                {
+                    formulario = new FrmRectangle();
+                }
+                return formulario;
+            }
+        }
+
         private void frmRectangle_Load(object sender, EventArgs e)
         {
             rectangle.InitData(txtWidth, txtHeight, txtPerimeter, txtArea, picCanvas);

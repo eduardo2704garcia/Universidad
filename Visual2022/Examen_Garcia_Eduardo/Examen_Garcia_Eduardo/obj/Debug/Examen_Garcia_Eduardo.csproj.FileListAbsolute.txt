@@ -1,0 +1,10 @@
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\bin\Debug\Examen_Garcia_Eduardo.exe.config
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\bin\Debug\Examen_Garcia_Eduardo.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\bin\Debug\Examen_Garcia_Eduardo.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\obj\Debug\Examen_Garcia_Eduardo.csproj.AssemblyReference.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\obj\Debug\Examen_Garcia_Eduardo.FrmSuperStar.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\obj\Debug\Examen_Garcia_Eduardo.Properties.Resources.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\obj\Debug\Examen_Garcia_Eduardo.csproj.GenerateResource.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\obj\Debug\Examen_Garcia_Eduardo.csproj.CoreCompileInputs.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\obj\Debug\Examen_Garcia_Eduardo.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Examen_Garcia_Eduardo\Examen_Garcia_Eduardo\obj\Debug\Examen_Garcia_Eduardo.pdb

@@ -14,9 +14,23 @@ namespace Figura1
     public partial class FrmSquare : Form
     {
         private Square square = new Square();
+        private static FrmSquare formulario;
+
         public FrmSquare()
         {
             InitializeComponent();
+        }
+
+        public static FrmSquare callForm
+        {
+            get
+            {
+                if (formulario == null || formulario.IsDisposed)
+                {
+                    formulario = new FrmSquare();
+                }
+                return formulario;
+            }
         }
 
         private void frmSquare_Load(object sender, EventArgs e)
@@ -44,5 +58,9 @@ namespace Figura1
             square.CloseForm(this);
         }
 
+        private void FrmSquare_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

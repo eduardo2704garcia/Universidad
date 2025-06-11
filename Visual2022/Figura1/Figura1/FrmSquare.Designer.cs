@@ -181,6 +181,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FrmSquare";
             this.Text = "FrmSquare";
+            this.Load += new System.EventHandler(this.FrmSquare_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -1,0 +1,10 @@
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\bin\Debug\P1_PC1_Garcia_Eduardo_V2.exe.config
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\bin\Debug\P1_PC1_Garcia_Eduardo_V2.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\bin\Debug\P1_PC1_Garcia_Eduardo_V2.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\obj\Debug\P1_PC1_Garcia_Eduardo_V2.csproj.AssemblyReference.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\obj\Debug\P1_PC1_Garcia_Eduardo_V2.FrmSuperStar.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\obj\Debug\P1_PC1_Garcia_Eduardo_V2.Properties.Resources.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\obj\Debug\P1_PC1_Garcia_Eduardo_V2.csproj.GenerateResource.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\obj\Debug\P1_PC1_Garcia_Eduardo_V2.csproj.CoreCompileInputs.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\obj\Debug\P1_PC1_Garcia_Eduardo_V2.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P1_PC1_Garcia_Eduardo_V2\P1_PC1_Garcia_Eduardo_V2\obj\Debug\P1_PC1_Garcia_Eduardo_V2.pdb

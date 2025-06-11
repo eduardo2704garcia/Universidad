@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="Circle.cs" />
     <Compile Include="Deltoid.cs" />
+    <Compile Include="Ejercicio1.cs" />
+    <Compile Include="Ejercicio2.cs" />
     <Compile Include="Ellipse.cs" />
     <Compile Include="FrmCircle.cs">
       <SubType>Form</SubType>
@@ -61,11 +63,35 @@
     <Compile Include="FrmDeltoid.Designer.cs">
       <DependentUpon>FrmDeltoid.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmEjercicio1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEjercicio1.Designer.cs">
+      <DependentUpon>FrmEjercicio1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEjercicio2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEjercicio2.Designer.cs">
+      <DependentUpon>FrmEjercicio2.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmEllipse.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmEllipse.Designer.cs">
       <DependentUpon>FrmEllipse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHome.Designer.cs">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLine.Designer.cs">
+      <DependentUpon>FrmLine.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmRectangle.cs">
       <SubType>Form</SubType>
@@ -109,6 +135,7 @@
     <Compile Include="FrmTriangle.Designer.cs">
       <DependentUpon>FrmTriangle.cs</DependentUpon>
     </Compile>
+    <Compile Include="Line.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="FrmSemicircle.cs">
@@ -131,8 +158,20 @@
     <EmbeddedResource Include="FrmDeltoid.resx">
       <DependentUpon>FrmDeltoid.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmEjercicio1.resx">
+      <DependentUpon>FrmEjercicio1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEjercicio2.resx">
+      <DependentUpon>FrmEjercicio2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmEllipse.resx">
       <DependentUpon>FrmEllipse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHome.resx">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLine.resx">
+      <DependentUpon>FrmLine.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmRectangle.resx">
       <DependentUpon>FrmRectangle.cs</DependentUpon>
