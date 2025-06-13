@@ -1,0 +1,13 @@
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\bin\Debug\AlgoritmosGraficosBasicos.exe.config
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\bin\Debug\AlgoritmosGraficosBasicos.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\bin\Debug\AlgoritmosGraficosBasicos.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.csproj.AssemblyReference.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.Properties.Resources.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.csproj.GenerateResource.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.UI.FrmBresenham.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.UI.FrmRelleno.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.UI.FrmCircunferencia.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\AlgoritmosGraficosBasicos\AlgoritmosGraficosBasicos\obj\Debug\AlgoritmosGraficosBasicos.UI.FrmDDA.resources

@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace AlgoritmosGraficosBasicos
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// Punto de entrada principal para la aplicación.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new UI.FrmDDA());
+            Application.Run(new UI.FrmBresenham());
+            Application.Run(new UI.FrmCircunferencia());
+            Application.Run(new UI.FrmRelleno());
+        }
+    }
+}
