@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using AlgoritmosGraficosBasicos.Algoritmos;
-using AlgoritmosGraficosBasicos.Figuras;
-using AlgoritmosGraficosBasicos.Utils;
 using AlgoritmosGraficosBasicos.Graficos;
 
 namespace AlgoritmosGraficosBasicos.UI
@@ -13,7 +9,6 @@ namespace AlgoritmosGraficosBasicos.UI
     public partial class FrmRelleno : Form
     {
         private Bitmap bmp;
-        private List<Punto> vertices;
         private int escala = 20;
 
         public FrmRelleno()
@@ -30,18 +25,17 @@ namespace AlgoritmosGraficosBasicos.UI
                 return;
             }
 
-            // Limpiar canvas y tabla
             bmp = new Bitmap(picCanvas.Width, picCanvas.Height);
             picCanvas.Image = null;
             dtaPixeles.Rows.Clear();
             dtaPixeles.Columns.Clear();
 
-            // Calcular el centro del PictureBox (en píxeles)
+            //CentroRadio
             float centerX = picCanvas.Width / 2f;
             float centerY = picCanvas.Height / 2f;
-            float radio = Math.Min(picCanvas.Width, picCanvas.Height) * 0.4f;
+            float radio = Math.Min(picCanvas.Width, picCanvas.Height) * 0.25f;
 
-            // Calcular puntos del polígono regular en coordenadas reales
+            //Vertices 
             PointF[] puntos = new PointF[lados];
             double angulo = 2 * Math.PI / lados;
 
@@ -78,16 +72,25 @@ namespace AlgoritmosGraficosBasicos.UI
             Color colorObjetivo = bmp.GetPixel(px, py);
             Color colorRelleno = Color.Red;
 
+            //Tabla
             dtaPixeles.Columns.Clear();
             dtaPixeles.Rows.Clear();
             dtaPixeles.Columns.Add("X", "X");
             dtaPixeles.Columns.Add("Y", "Y");
+
             dtaPixeles.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(255, 255, 128);
             dtaPixeles.ColumnHeadersDefaultCellStyle.ForeColor = Color.Black;
             dtaPixeles.DefaultCellStyle.ForeColor = Color.Black;
+            dtaPixeles.DefaultCellStyle.Font = new Font("Segoe UI", 10);
+            dtaPixeles.GridColor = Color.Black;
+            dtaPixeles.BorderStyle = BorderStyle.Fixed3D;
+            dtaPixeles.CellBorderStyle = DataGridViewCellBorderStyle.Single;
+            dtaPixeles.EnableHeadersVisualStyles = false;
 
             PixelAnimator animador = new PixelAnimator();
-            await animador.RellenarDeArribaAbajo(bmp, px, py, colorObjetivo, colorRelleno, picCanvas, dtaPixeles);
+            await animador.RellenarLineaPorLinea(bmp, px, py, colorObjetivo, colorRelleno, picCanvas, dtaPixeles);
+
+            dtaPixeles.Refresh();
         }
     }
 }

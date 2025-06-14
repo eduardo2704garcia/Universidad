@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 using AlgoritmosGraficosBasicos.Algoritmos;
 using AlgoritmosGraficosBasicos.Utils;
@@ -14,9 +15,9 @@ namespace AlgoritmosGraficosBasicos.UI
             InitializeComponent();
         }
 
-        private void btnDibujar_Click(object sender, EventArgs e)
+        private async void btnDibujar_Click(object sender, EventArgs e)
         {
-            // Validar entrada
+            //Validaciones de ingreso
             if (!int.TryParse(txtCentroX.Text, out int cx) ||
                 !int.TryParse(txtCentroY.Text, out int cy) ||
                 !int.TryParse(txtRadio.Text, out int radio))
@@ -29,27 +30,24 @@ namespace AlgoritmosGraficosBasicos.UI
             AlgoritmoCircunferencia algoritmo = new AlgoritmoCircunferencia();
             List<Punto> puntos = algoritmo.CalcularCircunferencia(centro, radio);
 
-            // Color de fondo deseado
+            int escala = 20;
+            int offsetX = 50;
+            int offsetY = 50;
             Color fondo = Color.FromArgb(255, 255, 128);
-            picCanvas.BackColor = fondo;
 
             Bitmap bmp = new Bitmap(picCanvas.Width, picCanvas.Height);
             using (Graphics g = Graphics.FromImage(bmp))
             {
                 g.Clear(fondo);
 
-                int escala = 20;
-                int offsetX = 50;
-                int offsetY = 50;
-
-                // Dibujar cuadrícula
+                //Dinujo plano
                 Pen gridPen = new Pen(Color.FromArgb(60, Color.Black), 1);
                 for (int x = 0; x < bmp.Width; x += escala)
                     g.DrawLine(gridPen, x, 0, x, bmp.Height);
                 for (int y = 0; y < bmp.Height; y += escala)
                     g.DrawLine(gridPen, 0, y, bmp.Width, y);
 
-                // Coordenadas numéricas
+                //Numeros dle plano
                 Font font = new Font("Consolas", 8);
                 Brush brush = Brushes.Black;
                 for (int x = 0; x < bmp.Width; x += escala)
@@ -62,21 +60,28 @@ namespace AlgoritmosGraficosBasicos.UI
                     int valorY = (bmp.Height - y - offsetY) / escala;
                     g.DrawString(valorY.ToString(), font, brush, 1, y + 1);
                 }
+            }
 
-                // Pintar puntos de la circunferencia
+            picCanvas.Image = bmp;
+
+            //Animacion
+            using (Graphics g = Graphics.FromImage(bmp))
+            {
                 foreach (var punto in puntos)
                 {
                     int x = punto.X * escala + offsetX;
                     int y = bmp.Height - (punto.Y * escala + offsetY);
 
                     if (x >= 0 && x < bmp.Width && y >= 0 && y < bmp.Height)
+                    {
                         g.FillRectangle(Brushes.Black, x, y, escala, escala);
+                        picCanvas.Image = (Bitmap)bmp.Clone();
+                        await Task.Delay(400);
+                    }
                 }
             }
 
-            picCanvas.Image = bmp;
-
-            // Mostrar coordenadas en tabla
+            //Mostrar numeros 
             dtaPixeles.Columns.Clear();
             dtaPixeles.Rows.Clear();
             dtaPixeles.ColumnCount = 2;
@@ -85,7 +90,7 @@ namespace AlgoritmosGraficosBasicos.UI
 
             DataGridViewCellStyle headerStyle = new DataGridViewCellStyle
             {
-                BackColor = Color.FromArgb(255, 255, 128),
+                BackColor = fondo,
                 ForeColor = Color.Black,
                 Font = new Font("Times New Roman", 12, FontStyle.Bold),
                 Alignment = DataGridViewContentAlignment.MiddleCenter

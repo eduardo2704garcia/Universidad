@@ -7,7 +7,7 @@ namespace AlgoritmosGraficosBasicos.Graficos
 {
     internal class PixelAnimator
     {
-        public async Task RellenarDeArribaAbajo(Bitmap bmp, int x, int y, Color colorObjetivo, Color colorRelleno, PictureBox canvas, DataGridView grid)
+        public async Task RellenarLineaPorLinea(Bitmap bmp, int x, int y, Color colorObjetivo, Color colorRelleno, PictureBox canvas, DataGridView grid)
         {
             if (colorObjetivo.ToArgb() == colorRelleno.ToArgb())
                 return;
@@ -18,25 +18,64 @@ namespace AlgoritmosGraficosBasicos.Graficos
             while (cola.Count > 0)
             {
                 Point punto = cola.Dequeue();
+                int px = punto.X;
+                int py = punto.Y;
 
-                if (punto.X < 0 || punto.Y < 0 || punto.X >= bmp.Width || punto.Y >= bmp.Height)
-                    continue;
+                while (px >= 0 && bmp.GetPixel(px, py).ToArgb() == colorObjetivo.ToArgb())
+                    px--;
+                px++;
 
-                if (bmp.GetPixel(punto.X, punto.Y).ToArgb() != colorObjetivo.ToArgb())
-                    continue;
+                bool arriba = false, abajo = false;
 
-                bmp.SetPixel(punto.X, punto.Y, colorRelleno);
-                canvas.Refresh();
+                while (px < bmp.Width && bmp.GetPixel(px, py).ToArgb() == colorObjetivo.ToArgb())
+                {
+                    bmp.SetPixel(px, py, colorRelleno);
+                    canvas.Refresh();
 
-                grid.Rows.Add(punto.X, punto.Y);
+                    //Tabla
+                    if (grid.InvokeRequired)
+                    {
+                        grid.Invoke((MethodInvoker)(() =>
+                        {
+                            grid.Rows.Add(px, py);
+                        }));
+                    }
+                    else
+                    {
+                        grid.Rows.Add(px, py);
+                    }
 
-                // Agrega prioridad a ir hacia abajo primero (animación vertical)
-                cola.Enqueue(new Point(punto.X, punto.Y + 1));
-                cola.Enqueue(new Point(punto.X + 1, punto.Y));
-                cola.Enqueue(new Point(punto.X - 1, punto.Y));
-                cola.Enqueue(new Point(punto.X, punto.Y - 1));
+                    //PixelArriba
+                    if (py > 0 && bmp.GetPixel(px, py - 1).ToArgb() == colorObjetivo.ToArgb())
+                    {
+                        if (!arriba)
+                        {
+                            cola.Enqueue(new Point(px, py - 1));
+                            arriba = true;
+                        }
+                    }
+                    else
+                    {
+                        arriba = false;
+                    }
 
-                await Task.Delay(1); // Animación pixel a pixel
+                    //PixelesAbajo
+                    if (py < bmp.Height - 1 && bmp.GetPixel(px, py + 1).ToArgb() == colorObjetivo.ToArgb())
+                    {
+                        if (!abajo)
+                        {
+                            cola.Enqueue(new Point(px, py + 1));
+                            abajo = true;
+                        }
+                    }
+                    else
+                    {
+                        abajo = false;
+                    }
+
+                    px++;
+                    await Task.Delay(5); 
+                }
             }
         }
     }

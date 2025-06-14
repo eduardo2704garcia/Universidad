@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 using AlgoritmosGraficosBasicos.Algoritmos;
 using AlgoritmosGraficosBasicos.Utils;
@@ -14,9 +15,8 @@ namespace AlgoritmosGraficosBasicos.UI
             InitializeComponent();
         }
 
-        private void btnDibujar_Click(object sender, EventArgs e)
+        private async void btnDibujar_Click(object sender, EventArgs e)
         {
-            //Validar entradas
             if (!int.TryParse(txtX1.Text, out int x1) ||
                 !int.TryParse(txtY1.Text, out int y1) ||
                 !int.TryParse(txtX2.Text, out int x2) ||
@@ -32,60 +32,55 @@ namespace AlgoritmosGraficosBasicos.UI
             AlgoritmoBresenham bresenham = new AlgoritmoBresenham();
             List<Punto> puntosLinea = bresenham.CalcularLinea(inicio, fin);
 
+            int escala = 20;
+            int offsetX = 50;
+            int offsetY = 50;
             Color fondo = Color.FromArgb(255, 255, 128);
-            picCanvas.BackColor = fondo;
 
-            //Bitmap
             Bitmap bmp = new Bitmap(picCanvas.Width, picCanvas.Height);
             using (Graphics g = Graphics.FromImage(bmp))
             {
                 g.Clear(fondo);
 
-                int escala = 20;
-                int offsetX = 50;
-                int offsetY = 50;
-
-                //Cuadricula
+                //Dibujar cuadrícula
                 Pen gridPen = new Pen(Color.FromArgb(60, Color.Black), 1);
                 for (int x = 0; x < bmp.Width; x += escala)
-                {
                     g.DrawLine(gridPen, x, 0, x, bmp.Height);
-                }
                 for (int y = 0; y < bmp.Height; y += escala)
-                {
                     g.DrawLine(gridPen, 0, y, bmp.Width, y);
-                }
 
                 //Coordenadas
                 Font font = new Font("Consolas", 8);
                 Brush brush = Brushes.Black;
-
                 for (int x = 0; x < bmp.Width; x += escala)
                 {
                     int valorX = (x - offsetX) / escala;
                     g.DrawString(valorX.ToString(), font, brush, x + 1, bmp.Height - offsetY + 2);
                 }
-
                 for (int y = 0; y < bmp.Height; y += escala)
                 {
                     int valorY = (bmp.Height - y - offsetY) / escala;
                     g.DrawString(valorY.ToString(), font, brush, 1, y + 1);
                 }
-
-                //Dibujar puntos
-                foreach (var punto in puntosLinea)
-                {
-                    int x = punto.X * escala + offsetX;
-                    int y = bmp.Height - (punto.Y * escala + offsetY); // Eje Y invertido
-
-                    if (x >= 0 && x < bmp.Width && y >= 0 && y < bmp.Height)
-                    {
-                        g.FillRectangle(Brushes.Black, x, y, escala, escala);
-                    }
-                }
             }
 
             picCanvas.Image = bmp;
+
+            //Animacion
+            using (Graphics g = Graphics.FromImage(bmp))
+            {
+                foreach (var punto in puntosLinea)
+                {
+                    int x = punto.X * escala + offsetX;
+                    int y = bmp.Height - (punto.Y * escala + offsetY);
+                    if (x >= 0 && x < bmp.Width && y >= 0 && y < bmp.Height)
+                    {
+                        g.FillRectangle(Brushes.Black, x, y, escala, escala);
+                        picCanvas.Image = (Bitmap)bmp.Clone();
+                        await Task.Delay(300);
+                    }
+                }
+            }
 
             //Tabla de pixeles
             dtaPixeles.Columns.Clear();
@@ -96,7 +91,7 @@ namespace AlgoritmosGraficosBasicos.UI
 
             DataGridViewCellStyle headerStyle = new DataGridViewCellStyle
             {
-                BackColor = Color.FromArgb(255, 255, 128),
+                BackColor = fondo,
                 ForeColor = Color.Black,
                 Font = new Font("Times New Roman", 12, FontStyle.Bold),
                 Alignment = DataGridViewContentAlignment.MiddleCenter
