@@ -1,0 +1,14 @@
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\bin\Debug\P2_D2_Algoritmos_GarciaE.exe.config
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\bin\Debug\P2_D2_Algoritmos_GarciaE.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\bin\Debug\P2_D2_Algoritmos_GarciaE.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.csproj.AssemblyReference.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.Properties.Resources.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.csproj.GenerateResource.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.csproj.CoreCompileInputs.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.App.FrmMain.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.UI.FrmRemasterizacion.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.UI.FrmCurvas.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.UI.FrmRecorte.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_D2_Algoritmos_GarciaE\P2_D2_Algoritmos_GarciaE\obj\Debug\P2_D2_Algoritmos_GarciaE.UI.FrmRelleno.resources

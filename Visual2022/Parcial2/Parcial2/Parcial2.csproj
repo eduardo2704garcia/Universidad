@@ -47,18 +47,45 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algoritmos\AlgoritmoBreseham.cs" />
+    <Compile Include="Algoritmos\AlgoritmoCohenSutherland.cs" />
+    <Compile Include="Algoritmos\AlgoritmoCurvaBezier.cs" />
     <Compile Include="Algoritmos\AlgoritmoDDA.cs" />
     <Compile Include="Algoritmos\AlgoritmoPuntoMedio.cs" />
+    <Compile Include="Algoritmos\AlgoritmoRecortePoligono.cs" />
     <Compile Include="Algoritmos\FrmAlgoritmos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Algoritmos\FrmAlgoritmos.Designer.cs">
       <DependentUpon>FrmAlgoritmos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Algoritmos\FrmCurvaBezier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Algoritmos\FrmCurvaBezier.Designer.cs">
+      <DependentUpon>FrmCurvaBezier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algoritmos\FrmRecortePoligono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Algoritmos\FrmRecortePoligono.Designer.cs">
+      <DependentUpon>FrmRecortePoligono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algoritmos\FrmSutherland.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Algoritmos\FrmSutherland.Designer.cs">
+      <DependentUpon>FrmSutherland.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Algoritmos\FrmAlgoritmos.resx">
       <DependentUpon>FrmAlgoritmos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algoritmos\FrmRecortePoligono.resx">
+      <DependentUpon>FrmRecortePoligono.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algoritmos\FrmSutherland.resx">
+      <DependentUpon>FrmSutherland.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

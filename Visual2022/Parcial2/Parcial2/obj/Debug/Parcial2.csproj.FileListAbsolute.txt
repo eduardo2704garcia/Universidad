@@ -8,3 +8,5 @@ C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Parc
 C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
 C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Parcial2\Parcial2\obj\Debug\Parcial2.exe
 C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Parcial2\Parcial2\obj\Debug\Parcial2.Algoritmos.FrmSutherland.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\Parcial2\Parcial2\obj\Debug\Parcial2.Algoritmos.FrmRecortePoligono.resources

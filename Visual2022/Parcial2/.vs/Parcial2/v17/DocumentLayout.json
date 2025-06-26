@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\parcial2\\parcial2\\algoritmos\\frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\algoritmos\\frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\parcial2\\parcial2\\algoritmos\\frmrecortepoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\algoritmos\\frmrecortepoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\parcial2\\parcial2\\algoritmos\\algoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\algoritmos\\algoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\parcial2\\parcial2\\algoritmos\\algoritmocurvabezier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\algoritmos\\algoritmocurvabezier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\parcial2\\parcial2\\algoritmos\\algoritmobreseham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\algoritmos\\algoritmobreseham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\parcial2\\parcial2\\algoritmos\\algoritmopuntomedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\algoritmos\\algoritmopuntomedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\parcial2\\algoritmos\\frmcurvabezier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{095EE72A-9B70-4AE7-9DC3-166674C89FB9}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\algoritmos\\frmcurvabezier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmAlgoritmos.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\FrmAlgoritmos.cs",
-              "RelativeDocumentMoniker": "Parcial2\\Algoritmos\\FrmAlgoritmos.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\FrmAlgoritmos.cs",
-              "RelativeToolTip": "Parcial2\\Algoritmos\\FrmAlgoritmos.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwGEAAAAJAAAAAAAAAA==",
+              "Title": "FrmRecortePoligono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\FrmRecortePoligono.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Algoritmos\\FrmRecortePoligono.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\FrmRecortePoligono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial2\\Algoritmos\\FrmRecortePoligono.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T15:21:49.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AlgoritmoPuntoMedio.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\AlgoritmoPuntoMedio.cs",
-              "RelativeDocumentMoniker": "Parcial2\\Algoritmos\\AlgoritmoPuntoMedio.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\AlgoritmoPuntoMedio.cs",
-              "RelativeToolTip": "Parcial2\\Algoritmos\\AlgoritmoPuntoMedio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T15:09:11.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlgoritmoDDA.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\AlgoritmoDDA.cs",
-              "RelativeDocumentMoniker": "Parcial2\\Algoritmos\\AlgoritmoDDA.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\AlgoritmoDDA.cs",
-              "RelativeToolTip": "Parcial2\\Algoritmos\\AlgoritmoDDA.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T15:07:45.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T20:15:42.698Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AlgoritmoBreseham.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\AlgoritmoBreseham.cs",
-              "RelativeDocumentMoniker": "Parcial2\\Algoritmos\\AlgoritmoBreseham.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\AlgoritmoBreseham.cs",
-              "RelativeToolTip": "Parcial2\\Algoritmos\\AlgoritmoBreseham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Title": "FrmCurvaBezier.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\FrmCurvaBezier.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Algoritmos\\FrmCurvaBezier.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\FrmCurvaBezier.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial2\\Algoritmos\\FrmCurvaBezier.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T15:08:12.647Z",
+              "WhenOpened": "2025-06-24T14:28:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlgoritmoCurvaBezier.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\AlgoritmoCurvaBezier.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Algoritmos\\AlgoritmoCurvaBezier.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\Parcial2\\Parcial2\\Algoritmos\\AlgoritmoCurvaBezier.cs",
+              "RelativeToolTip": "Parcial2\\Algoritmos\\AlgoritmoCurvaBezier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:28:05.068Z",
               "EditorCaption": ""
             }
           ]

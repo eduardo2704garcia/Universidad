@@ -17,6 +17,8 @@ namespace Parcial2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Algoritmos.FrmAlgoritmos());
+            Application.Run(new Algoritmos.FrmSutherland());
+            Application.Run(new Algoritmos.FrmRecortePoligono());
         }
     }
 }
