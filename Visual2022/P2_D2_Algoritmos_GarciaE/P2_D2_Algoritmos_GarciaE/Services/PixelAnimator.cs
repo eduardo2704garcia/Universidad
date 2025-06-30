@@ -49,21 +49,21 @@ namespace P2_D2_Algoritmos_GarciaE.Services
                 int px = punto.X;
                 int py = punto.Y;
 
-                // Corre a la izquierda
+                //izquierda
                 while (px >= 0 && bmp.GetPixel(px, py).ToArgb() == colorObjetivo.ToArgb())
                     px--;
                 px++;
 
                 bool arriba = false, abajo = false;
 
-                // Corre a la derecha pintando
+                //derecha
                 while (px < bmp.Width && bmp.GetPixel(px, py).ToArgb() == colorObjetivo.ToArgb())
                 {
                     bmp.SetPixel(px, py, colorRelleno);
                     canvas.Refresh();
                     await Task.Delay(velocidad);
 
-                    // Pixel arriba
+                    //arriba
                     if (py > 0 && bmp.GetPixel(px, py - 1).ToArgb() == colorObjetivo.ToArgb())
                     {
                         if (!arriba)
@@ -77,7 +77,7 @@ namespace P2_D2_Algoritmos_GarciaE.Services
                         arriba = false;
                     }
 
-                    // Pixel abajo
+                    //abajo
                     if (py < bmp.Height - 1 && bmp.GetPixel(px, py + 1).ToArgb() == colorObjetivo.ToArgb())
                     {
                         if (!abajo)

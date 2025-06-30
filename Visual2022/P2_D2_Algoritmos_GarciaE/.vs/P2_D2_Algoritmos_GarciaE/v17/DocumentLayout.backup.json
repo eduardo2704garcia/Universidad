@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\ui\\frmrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\ui\\frmrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\interfaces\\ianimable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\interfaces\\ianimable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\p2_d2_algoritmos_garciae\\models\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\models\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\interfaces\\idibujable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\interfaces\\idibujable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\p2_d2_algoritmos_garciae\\ui\\frmrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\ui\\frmrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\interfaces\\irecortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\interfaces\\irecortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\p2_d2_algoritmos_garciae\\services\\pixelanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\services\\pixelanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\p2_d2_algoritmos_garciae\\core\\relleno\\skilinefill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\core\\relleno\\skilinefill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\p2_d2_algoritmos_garciae\\core\\relleno\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\core\\relleno\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\interfaces\\ifiguracurva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\interfaces\\ifiguracurva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Figura.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Models\\Figura.cs",
-              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Models\\Figura.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Models\\Figura.cs",
-              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Models\\Figura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "IAnimable.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Interfaces\\IAnimable.cs",
+              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Interfaces\\IAnimable.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Interfaces\\IAnimable.cs",
+              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Interfaces\\IAnimable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:42:41.966Z"
+              "WhenOpened": "2025-06-28T14:16:19.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmRelleno.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
-              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
-              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB8AAABCAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IDibujable.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Interfaces\\IDibujable.cs",
+              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Interfaces\\IDibujable.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Interfaces\\IDibujable.cs",
+              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Interfaces\\IDibujable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:49:29.832Z",
+              "WhenOpened": "2025-06-28T14:16:16.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmRelleno.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
-              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs [Dise\u00F1o]",
-              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs [Dise\u00F1o]",
+              "Title": "IRecortable.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Interfaces\\IRecortable.cs",
+              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Interfaces\\IRecortable.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Interfaces\\IRecortable.cs",
+              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Interfaces\\IRecortable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:41:19.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FloodFill.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\FloodFill.cs",
-              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\FloodFill.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\FloodFill.cs",
-              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\FloodFill.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:41:15.37Z"
+              "WhenOpened": "2025-06-28T14:16:12.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PixelAnimator.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Services\\PixelAnimator.cs",
-              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Services\\PixelAnimator.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Services\\PixelAnimator.cs",
-              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Services\\PixelAnimator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Title": "IFiguraCurva.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Interfaces\\IFiguraCurva.cs",
+              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Interfaces\\IFiguraCurva.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Interfaces\\IFiguraCurva.cs",
+              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Interfaces\\IFiguraCurva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:36:55.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SkilineFill.cs",
-              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\SkilineFill.cs",
-              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\SkilineFill.cs",
-              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\SkilineFill.cs",
-              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\SkilineFill.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:35:43.994Z"
+              "WhenOpened": "2025-06-28T14:16:08.789Z",
+              "EditorCaption": ""
             }
           ]
         }

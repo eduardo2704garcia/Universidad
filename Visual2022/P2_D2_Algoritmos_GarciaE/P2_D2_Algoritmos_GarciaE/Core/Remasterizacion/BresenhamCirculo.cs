@@ -12,7 +12,7 @@ namespace P2_D2_Algoritmos_GarciaE.Core.Remasterizacion
     {
         public void Dibujar(Graphics g, List<Point> puntos)
         {
-            _ = Animar(g, puntos, null, 0); // O usa implementación sin animación
+            _ = Animar(g, puntos, null, 0);
         }
 
         public async Task Animar(Graphics g, List<Point> puntos, PictureBox canvas, int velocidad)

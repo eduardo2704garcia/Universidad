@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_pp2_garcia_eduardo\\p2_pp2_garcia_eduardo\\ui\\frmreloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|solutionrelative:p2_pp2_garcia_eduardo\\ui\\frmreloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_pp2_garcia_eduardo\\p2_pp2_garcia_eduardo\\ui\\frmreloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|solutionrelative:p2_pp2_garcia_eduardo\\ui\\frmreloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_pp2_garcia_eduardo\\p2_pp2_garcia_eduardo\\services\\reloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|solutionrelative:p2_pp2_garcia_eduardo\\services\\reloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_pp2_garcia_eduardo\\p2_pp2_garcia_eduardo\\algoritmos\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|solutionrelative:p2_pp2_garcia_eduardo\\algoritmos\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_pp2_garcia_eduardo\\p2_pp2_garcia_eduardo\\algoritmos\\bresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|solutionrelative:p2_pp2_garcia_eduardo\\algoritmos\\bresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_pp2_garcia_eduardo\\p2_pp2_garcia_eduardo\\algoritmos\\dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C4B9AB-31F0-411B-B3DD-7CD77BC6A0CD}|P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo.csproj|solutionrelative:p2_pp2_garcia_eduardo\\algoritmos\\dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmReloj.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\UI\\FrmReloj.cs",
+              "RelativeDocumentMoniker": "P2_PP2_Garcia_Eduardo\\UI\\FrmReloj.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\UI\\FrmReloj.cs",
+              "RelativeToolTip": "P2_PP2_Garcia_Eduardo\\UI\\FrmReloj.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:21:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reloj.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\Services\\Reloj.cs",
+              "RelativeDocumentMoniker": "P2_PP2_Garcia_Eduardo\\Services\\Reloj.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\Services\\Reloj.cs",
+              "RelativeToolTip": "P2_PP2_Garcia_Eduardo\\Services\\Reloj.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:21:21.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmReloj.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\UI\\FrmReloj.cs",
+              "RelativeDocumentMoniker": "P2_PP2_Garcia_Eduardo\\UI\\FrmReloj.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\UI\\FrmReloj.cs [Dise\u00F1o]",
+              "RelativeToolTip": "P2_PP2_Garcia_Eduardo\\UI\\FrmReloj.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:15:35.275Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\Algoritmos\\FloodFill.cs",
+              "RelativeDocumentMoniker": "P2_PP2_Garcia_Eduardo\\Algoritmos\\FloodFill.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\Algoritmos\\FloodFill.cs",
+              "RelativeToolTip": "P2_PP2_Garcia_Eduardo\\Algoritmos\\FloodFill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:14:06.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BresenhamCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\Algoritmos\\BresenhamCirculo.cs",
+              "RelativeDocumentMoniker": "P2_PP2_Garcia_Eduardo\\Algoritmos\\BresenhamCirculo.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\Algoritmos\\BresenhamCirculo.cs",
+              "RelativeToolTip": "P2_PP2_Garcia_Eduardo\\Algoritmos\\BresenhamCirculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:13:53.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DDA.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\Algoritmos\\DDA.cs",
+              "RelativeDocumentMoniker": "P2_PP2_Garcia_Eduardo\\Algoritmos\\DDA.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PP2_Garcia_Eduardo\\P2_PP2_Garcia_Eduardo\\Algoritmos\\DDA.cs",
+              "RelativeToolTip": "P2_PP2_Garcia_Eduardo\\Algoritmos\\DDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:13:36.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
