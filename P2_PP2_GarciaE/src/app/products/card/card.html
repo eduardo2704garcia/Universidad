@@ -1,0 +1,14 @@
+<div class="card">
+  <img [src]="image" alt="{{ name }}" class="program-image" />
+
+  <h3>{{ name }}</h3>
+  <p>{{ description }}</p>
+
+  <div class="controls">
+    <button (click)="decrementParticipants()">-</button>
+    <span>Personas</span>
+    <button (click)="incrementParticipants()">+</button>
+  </div>
+
+  <p><strong>Total de Personas: {{ participants() }}</strong></p>
+</div>

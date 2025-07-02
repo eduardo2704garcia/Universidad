@@ -1,0 +1,18 @@
+.footer-container {
+  background-color: #0a2e38;
+  color: #ccf2f4;
+  text-align: center;
+  padding: 1rem 2rem;
+  font-size: 0.9rem;
+  margin-top: auto;
+}
+
+.footer-container a {
+  color: #2c8aab;
+  text-decoration: none;
+}
+
+.footer-container a:hover {
+  text-decoration: underline;
+}
+

@@ -1,0 +1,11 @@
+<h2 class="title">Programas Disponibles</h2>
+
+<div class="list-container">
+  <app-card
+    *ngFor="let p of programs"
+    [name]="p.name"
+    [description]="p.description"
+    [image]="p.image"
+    [initialParticipants]="p.participants">
+  </app-card>
+</div>

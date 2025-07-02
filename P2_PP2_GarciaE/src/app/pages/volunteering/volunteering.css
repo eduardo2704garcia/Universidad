@@ -1,0 +1,41 @@
+/* === Sección de Voluntariado === */
+.section-container.volunteering {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background-color: #0a2e38;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  color: #ccf2f4;
+  text-align: center;
+}
+
+.section-container.volunteering h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #ccf2f4;
+}
+
+.section-container.volunteering p {
+  font-size: 1rem;
+  color: #a7e7ef;
+  margin-bottom: 2rem;
+}
+
+.section-container.volunteering .btn {
+  padding: 0.8rem 1.5rem;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  background-color: #2c8aab;
+  color: white;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.section-container.volunteering .btn:hover {
+  background-color: #1e768d;
+  transform: scale(1.05);
+}

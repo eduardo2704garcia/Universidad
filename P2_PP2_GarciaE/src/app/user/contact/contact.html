@@ -1,0 +1,15 @@
+<div class="form-container">
+  <h2>Contáctanos</h2>
+  <form (ngSubmit)="submitForm()">
+    <label>Nombre:</label>
+    <input [(ngModel)]="user.name" name="name" required />
+
+    <label>Email:</label>
+    <input [(ngModel)]="user.email" name="email" type="email" required />
+
+    <label>Mensaje:</label>
+    <textarea [(ngModel)]="user.message" name="message" required></textarea>
+
+    <button type="submit">Enviar</button>
+  </form>
+</div>

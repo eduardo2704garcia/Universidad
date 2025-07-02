@@ -1,0 +1,15 @@
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+  background-color: #031f24;
+}
+
+.title {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 2rem;
+  color: #ccf2f4;
+}
