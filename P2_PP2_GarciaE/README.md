@@ -1,59 +1,119 @@
-# P2PP2GarciaE
+# ATLAS - Proyecto Angular 19 (Standalone + Signals)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
+Aplicación web desarrollada con Angular 19 que permite explorar y participar en programas de voluntariado comunitario. Utiliza las últimas características del framework como **componentes standalone** y **Angular signals** para una experiencia moderna, reactiva y modular.
 
-## Development server
+---
 
-To start a local development server, run:
+## Características principales
 
+- Navegación fluida entre páginas usando **Angular Router**
+- Componentes 100% **standalone**
+- Estado reactivo con **Signals** (`signal`, `computed`)
+- Diseño moderno, visualmente atractivo y adaptable (responsive)
+- Gestión de participantes por programa con botones para incrementar/disminuir
+- Secciones adicionales como contacto, perfil, donaciones y bienvenida
+
+---
+
+## Estructura del proyecto
+
+```
+src/
+├── app/
+│   ├── pages/
+│   │   ├── home/           → Carpeta de bienvenida (contiene los componentes WelcomePage, Nav y Footer)
+│   │   ├── pages/          → Carpeta de paginas (contiene los componentes volunteering y donations para hacer el forms y donaciones)
+│   │   ├── products/       → Carpeta de programas (contiene la imformacion de los programas activos usando componentes card y list acopaldos con signals)
+│   │   ├── user/           → Carpeta de gerente (tiene toda la inforamcion del gerente de la página)
+│   ├── app.routes.ts       → Definición de rutas
+│   └── app.ts              → Root component con RouterOutlet
+```
+
+---
+
+## Tecnologías utilizadas
+
+- **Angular 19 (standalone)**
+- **Signals API** (`signal()`, `computed()`)
+- **HTML + CSS personalizado**
+- **Routing modular (SPA)**
+- **Public organizados (imágenes en `/public/images`)**
+
+---
+
+## 🛠️ Instrucciones de instalación
+
+1. Clona el repositorio:
+```bash
+git clone (https://github.com/eduardo2704garcia/Universidad/edit/RamaEduardo/P2_PP2_GarciaE)
+```
+
+2. Instala las dependencias:
+```bash
+npm install
+```
+
+3. Corre el servidor de desarrollo:
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
+4. Abre tu navegador en:
+```
+http://localhost:4200/
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+---
 
-```bash
-ng generate --help
+## Páginas del proyecto
+
+### Home (`/home`)
+- Página de bienvenida con imagen de fondo
+- Botones para redireccionar a voluntariado y contacto
+- Navbar y footer adaptativos y visualmente atractivos
+
+### Voluntariado (`/pages/volunteering`)
+- Lista de programas disponibles
+- Cada programa tiene nombre, descripción, imagen y contador de participantes
+- Botones para sumar o restar participantes usando `signal()`
+
+### Usuario (`/user/info`)
+- Información personal del usuario voluntario
+
+### Contacto (`/user/contact`)
+- Formulario de registro y contacto
+- Campos básicos: nombre, email, mensaje
+
+### Donaciones (`/pages/donations`)
+- Sección para realizar donaciones
+- Input para monto y botón de acción
+
+---
+
+## Ejemplo de uso de Signals
+
+```ts
+participants = signal(0);
+total = computed(() => participants() * 10);
+
+increment() {
+  participants.update(p => p + 1);
+}
 ```
 
-## Building
+---
 
-To build the project run:
+## Ideas futuras
 
-```bash
-ng build
-```
+- Autenticación de usuarios (voluntarios)
+- Backend para registrar participantes reales
+- Dashboard de estadísticas con signals
+- Soporte multilenguaje
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+## Autor
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+> Eduardo García  
+> Angular Developer - P2_PP2_García_E  
+> `@eduag.047`
