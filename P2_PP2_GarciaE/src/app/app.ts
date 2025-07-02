@@ -7,7 +7,7 @@ import { WelcomePage } from './home/welcome-page/welcome-page';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, CommonModule, Nav, Footer, WelcomePage],
+  imports: [RouterOutlet, CommonModule, Nav, Footer],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
