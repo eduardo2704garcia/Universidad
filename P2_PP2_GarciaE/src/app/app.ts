@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Nav } from './home/nav/nav';
 import { Footer } from './home/footer/footer';
-import { WelcomePage } from './home/welcome-page/welcome-page';
+
 
 @Component({
   selector: 'app-root',
