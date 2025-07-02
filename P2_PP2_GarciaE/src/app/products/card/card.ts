@@ -13,18 +13,18 @@ export class Card implements OnInit {
   @Input() image!: string;
   @Input() initialParticipants!: number;
 
-  private _participants = signal(0);
-  participants = computed(() => this._participants());
+  private _participantes = signal(0);
+  participantes = computed(() => this._participantes());
 
   ngOnInit() {
-    this._participants.set(this.initialParticipants || 0);
+    this._participantes.set(this.initialParticipants || 0);
   }
 
-  incrementParticipants() {
-    this._participants.update(p => p + 1);
+  incrementarParticipantes() {
+    this._participantes.update(p => p + 1);
   }
 
-  decrementParticipants() {
-    this._participants.update(p => Math.max(0, p - 1));
+  decrementarParticipantes() {
+    this._participantes.update(p => Math.max(0, p - 1));
   }
 }
