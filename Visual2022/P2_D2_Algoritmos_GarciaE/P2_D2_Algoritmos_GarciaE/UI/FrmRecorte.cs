@@ -23,7 +23,7 @@ namespace P2_D2_Algoritmos_GarciaE.UI
 
         private void AplicarEstilos()
         {
-            this.BackColor = Color.FromArgb(255, 192, 255); // fondo lila claro
+            this.BackColor = Color.FromArgb(255, 192, 255);
             Color colorNormal = Color.MediumOrchid;
             Color colorHover = Color.Orchid;
             Color textoBoton = Color.White;
