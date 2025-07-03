@@ -1,0 +1,19 @@
+<div class="style-switcher">
+  <div class="style-switcher-toggler s-icon" (click)="toggleSwitcher()">
+    <i class="fas fa-cog fa-spin"></i>
+  </div>
+
+  <div class="day-night s-icon" (click)="toggleDarkMode()">
+    <i class="fas"></i>
+  </div>
+
+  <h4>Theme Colors</h4>
+  <div class="colors">
+    <span class="color-1" [class.active]="isActive('color-1')" (click)="setActiveStyle('color-1')"></span>
+    <span class="color-2" [class.active]="isActive('color-2')" (click)="setActiveStyle('color-2')"></span>
+    <span class="color-3" [class.active]="isActive('color-3')" (click)="setActiveStyle('color-3')"></span>
+    <span class="color-4" [class.active]="isActive('color-4')" (click)="setActiveStyle('color-4')"></span>
+    <span class="color-5" [class.active]="isActive('color-5')" (click)="setActiveStyle('color-5')"></span>
+    <!--<span class="color-6" [class.active]="isActive('color-6')" (click)="setActiveStyle('color-6')"></span>--->
+  </div>
+</div>
