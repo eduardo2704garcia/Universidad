@@ -1,0 +1,10 @@
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\bin\Debug\P2_PC2_Paint_GarciaE.exe.config
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\bin\Debug\P2_PC2_Paint_GarciaE.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\bin\Debug\P2_PC2_Paint_GarciaE.pdb
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\obj\Debug\P2_PC2_Paint_GarciaE.csproj.AssemblyReference.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\obj\Debug\P2_PC2_Paint_GarciaE.FrmPaint.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\obj\Debug\P2_PC2_Paint_GarciaE.Properties.Resources.resources
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\obj\Debug\P2_PC2_Paint_GarciaE.csproj.GenerateResource.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\obj\Debug\P2_PC2_Paint_GarciaE.csproj.CoreCompileInputs.cache
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\obj\Debug\P2_PC2_Paint_GarciaE.exe
+C:\Users\eduag\OneDrive\Escritorio\ESPE-5to Semestre\Universidad\Visual2022\P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE\obj\Debug\P2_PC2_Paint_GarciaE.pdb

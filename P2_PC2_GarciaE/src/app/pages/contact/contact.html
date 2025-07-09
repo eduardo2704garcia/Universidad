@@ -1,0 +1,32 @@
+<div class="form-container">
+  <h2>Contáctanos</h2>
+  <form (ngSubmit)="submitForm()" #formRef="ngForm">
+    <label for="name">Nombre:</label>
+    <input
+      id="name"
+      name="name"
+      [(ngModel)]="user.name"
+      required
+      type="text"
+    />
+
+    <label for="email">Email:</label>
+    <input
+      id="email"
+      name="email"
+      [(ngModel)]="user.email"
+      required
+      type="email"
+    />
+
+    <label for="message">Mensaje:</label>
+    <textarea
+      id="message"
+      name="message"
+      [(ngModel)]="user.message"
+      required
+    ></textarea>
+
+    <button type="submit" [disabled]="!formRef.valid">Enviar</button>
+  </form>
+</div>

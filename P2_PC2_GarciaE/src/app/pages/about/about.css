@@ -1,0 +1,49 @@
+.about-section {
+  min-height: calc(100vh - var(--navbar-height) - var(--footer-height));
+  padding: 4rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #2e004f, #3a0060);
+  color: var(--color-light);
+}
+
+.info-card {
+  background-color: #1b0034;
+  border-radius: 16px;
+  padding: 2rem 2.5rem;
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.08);
+  text-align: center;
+}
+
+.info-card h2 {
+  color: var(--color-highlight);
+  margin-bottom: 1.5rem;
+}
+
+.info-card img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 6px solid var(--color-highlight);
+  margin-bottom: 1rem;
+  transition: all 0.3s ease;
+}
+
+.info-card img:hover {
+  border-color: var(--color-accent); /* Tomate en hover */
+  transform: scale(1.05);
+}
+
+.info-card p {
+  margin: 0.5rem 0;
+}
+
+.divider {
+  margin: 1.5rem 0;
+  border-color: var(--color-accent);
+  border-width: 1px;
+}

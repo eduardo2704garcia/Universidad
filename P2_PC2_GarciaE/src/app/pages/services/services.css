@@ -1,0 +1,89 @@
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 160px);
+  padding: 2rem;
+  background: linear-gradient(to right, #fff1d6, #ffe0b2);
+}
+
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  width: 100%;
+  max-width: 800px;
+}
+
+.controls {
+  background-color: #f3e5f5;
+  border-radius: 16px;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.controls h2 {
+  color: #131212; 
+  margin-bottom: 1rem;
+}
+
+.buttons button {
+  margin: 0.5rem;
+  padding: 0.8rem 1.2rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #ff7043; 
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.3s;
+}
+
+.buttons button:hover {
+  background-color: #f4511e;
+  transform: scale(1.05);
+}
+
+.cards-container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.category-card {
+  width: 150px;
+  padding: 1.2rem;
+  text-align: center;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+  transition: transform 0.3s, box-shadow 0.3s;
+  opacity: 0.6;
+}
+
+.category-card.active {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  opacity: 1;
+}
+
+/* Colores por categoría */
+.bajo {
+  background-color: #8e44ad;
+}
+
+.normal {
+  background-color: #2ecc71;
+}
+
+.sobrepeso {
+  background-color: #f39c12; 
+}
+
+.obesidad {
+  background-color: #e74c3c;
+}

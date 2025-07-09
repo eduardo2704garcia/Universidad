@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_PC2_Paint_GarciaE", "P2_PC2_Paint_GarciaE\P2_PC2_Paint_GarciaE.csproj", "{44ECFF63-88DB-40AC-8DAA-4329ED891A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44ECFF63-88DB-40AC-8DAA-4329ED891A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44ECFF63-88DB-40AC-8DAA-4329ED891A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44ECFF63-88DB-40AC-8DAA-4329ED891A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44ECFF63-88DB-40AC-8DAA-4329ED891A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD190A7-D076-4D96-94AA-66BF79B8EC2C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44ECFF63-88DB-40AC-8DAA-4329ED891A97}|P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_pc2_paint_garciae\\p2_pc2_paint_garciae\\forms\\frmpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44ECFF63-88DB-40AC-8DAA-4329ED891A97}|P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE.csproj|solutionrelative:p2_pc2_paint_garciae\\forms\\frmpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ECFF63-88DB-40AC-8DAA-4329ED891A97}|P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\p2_pc2_paint_garciae\\forms\\frmpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ECFF63-88DB-40AC-8DAA-4329ED891A97}|P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE.csproj|solutionrelative:p2_pc2_paint_garciae\\forms\\frmpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ECFF63-88DB-40AC-8DAA-4329ED891A97}|P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\p2_pc2_paint_garciae\\tools\\cliptool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ECFF63-88DB-40AC-8DAA-4329ED891A97}|P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE.csproj|solutionrelative:p2_pc2_paint_garciae\\tools\\cliptool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClipTool.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE\\Tools\\ClipTool.cs",
+              "RelativeDocumentMoniker": "P2_PC2_Paint_GarciaE\\Tools\\ClipTool.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE\\Tools\\ClipTool.cs",
+              "RelativeToolTip": "P2_PC2_Paint_GarciaE\\Tools\\ClipTool.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:18:56.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPaint.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE\\Forms\\FrmPaint.cs",
+              "RelativeDocumentMoniker": "P2_PC2_Paint_GarciaE\\Forms\\FrmPaint.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE\\Forms\\FrmPaint.cs*",
+              "RelativeToolTip": "P2_PC2_Paint_GarciaE\\Forms\\FrmPaint.cs*",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwG4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:28:23.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPaint.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE\\Forms\\FrmPaint.cs",
+              "RelativeDocumentMoniker": "P2_PC2_Paint_GarciaE\\Forms\\FrmPaint.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_PC2_Paint_GarciaE\\P2_PC2_Paint_GarciaE\\Forms\\FrmPaint.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "P2_PC2_Paint_GarciaE\\Forms\\FrmPaint.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:12:46.108Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

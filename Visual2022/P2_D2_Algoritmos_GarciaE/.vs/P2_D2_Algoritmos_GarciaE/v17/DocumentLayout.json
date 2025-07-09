@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\ui\\frmrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\ui\\frmremasterizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\ui\\frmremasterizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\p2_d2_algoritmos_garciae\\ui\\frmrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\ui\\frmrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|c:\\users\\eduag\\onedrive\\escritorio\\espe-5to semestre\\universidad\\visual2022\\p2_d2_algoritmos_garciae\\p2_d2_algoritmos_garciae\\core\\relleno\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\p2_d2_algoritmos_garciae\\core\\relleno\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F69AB1D-F3A8-487D-810F-CE8786255BFE}|P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE.csproj|solutionrelative:p2_d2_algoritmos_garciae\\core\\relleno\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRemasterizacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\UI\\FrmRemasterizacion.cs",
+              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\UI\\FrmRemasterizacion.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\UI\\FrmRemasterizacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\UI\\FrmRemasterizacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:29:01.307Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\App\\Program.cs",
+              "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\App\\Program.cs",
+              "ToolTip": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\App\\Program.cs",
+              "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:47:24.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FloodFill.cs",
               "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\FloodFill.cs",
               "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\FloodFill.cs",
@@ -30,12 +63,11 @@
               "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\Core\\Relleno\\FloodFill.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T14:25:01.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T14:25:01.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FrmRelleno.cs",
               "DocumentMoniker": "C:\\Users\\eduag\\OneDrive\\Escritorio\\ESPE-5to Semestre\\Universidad\\Visual2022\\P2_D2_Algoritmos_GarciaE\\P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
               "RelativeDocumentMoniker": "P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
@@ -43,8 +75,7 @@
               "RelativeToolTip": "P2_D2_Algoritmos_GarciaE\\UI\\FrmRelleno.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T14:23:35.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T14:23:35.044Z"
             }
           ]
         }

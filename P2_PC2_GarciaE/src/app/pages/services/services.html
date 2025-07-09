@@ -1,0 +1,37 @@
+<div class="main-wrapper">
+  <div class="controls">
+    <h2>Calculadora de IMC</h2>
+    <p><strong>Peso actual:</strong> {{ weight() }} kg</p>
+    <p><strong>Altura fija:</strong> {{ height() }} m</p>
+
+    <div class="buttons">
+      <button (click)="inc()">Incrementar</button>
+      <button (click)="dec()">Decrementar</button>
+      <button (click)="reset()">Reiniciar</button>
+    </div>
+
+    <p><strong>IMC Calculado:</strong> {{ bmi() }}</p>
+  </div>
+
+  <div class="cards-container">
+    <div class="category-card bajo" [class.active]="category() === 'bajo'">
+      <h3>Bajo Peso</h3>
+      <p>&lt; 18</p>
+    </div>
+
+    <div class="category-card normal" [class.active]="category() === 'normal'">
+      <h3>Peso Normal</h3>
+      <p>18.0 - 24.9</p>
+    </div>
+
+    <div class="category-card sobrepeso" [class.active]="category() === 'sobrepeso'">
+      <h3>Sobrepeso</h3>
+      <p>25.0 - 29.9</p>
+    </div>
+
+    <div class="category-card obesidad" [class.active]="category() === 'obesidad'">
+      <h3>Obesidad</h3>
+      <p>&gt;= 30</p>
+    </div>
+  </div>
+</div>
