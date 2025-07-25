@@ -1,7 +1,7 @@
 package com.example.categories.controllers;
 
 import com.example.categories.models.entities.Category;
-import com.example.categories.services.CategoryService;
+import com.example.categories.service.CategoriesService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -13,9 +13,9 @@ import java.util.List;
 @RequestMapping("/api/categories")
 public class CategoriesController {
 
-    private final CategoryService categoryService;
+    private final CategoriesService categoryService;
 
-    public CategoriesController(CategoryService categoryService) {
+    public CategoriesController(CategoriesService categoryService) {
         this.categoryService = categoryService;
     }
 
