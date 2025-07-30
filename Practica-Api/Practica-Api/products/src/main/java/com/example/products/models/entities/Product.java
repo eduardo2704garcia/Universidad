@@ -3,6 +3,8 @@ package com.example.products.models.entities;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
+import jakarta.validation.constraints.DecimalMin;
+import jakarta.validation.constraints.NotBlank;
 import jakarta.persistence.*;
 
 @Entity    //reconoce esto como entidad para base de datos
@@ -12,9 +14,11 @@ public class Product {
     @GeneratedValue (strategy = GenerationType.IDENTITY)
     private Long id;
 
-
+    @NotBlank(message = "Name cannot be blank")
     private String name;
+    @NotBlank(message = "Description cannot be blank")
     private String description;
+    @DecimalMin(value = "0.01")
     private double price;
 
 

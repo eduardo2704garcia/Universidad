@@ -1,0 +1,61 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8
+    container_name: test-db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: admin123
+      MYSQL_DATABASE: test
+    ports:
+      - "3307:3306"
+    networks:
+      - test-network
+
+  products:
+    image: img-app-productos:V2
+    container_name: c-app-products
+    restart: unless-stopped
+    environment:
+      DB_HOST: test-db:3306
+      DB_USER: root
+      DB_PASSWORD: admin123
+      DB_DATABASE: test
+      PORT: 8003
+    ports:
+      - "8081:8003"
+    depends_on:
+      - mysql
+    networks:
+      - test-network
+
+  categorias:
+    image: img-app-categorias:V2
+    container_name: c-app-categorias
+    restart: unless-stopped
+    environment:
+      DB_HOST: test-db:3306
+      DB_USER: root
+      DB_PASSWORD: admin123
+      DB_DATABASE: test
+      PORT: 8082
+    ports:
+      - "8082:8082"
+    depends_on:
+      - mysql
+    networks:
+      - test-network
+
+  frontend:
+    image: img-frontend-gestion:V2
+    container_name: c-frontend-gestion
+    restart: unless-stopped
+    ports:
+      - "4200:80"
+    networks:
+      - test-network
+
+networks:
+  test-network:
+    driver: bridge
