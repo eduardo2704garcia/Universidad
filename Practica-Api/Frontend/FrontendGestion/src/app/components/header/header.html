@@ -1,0 +1,21 @@
+<header class="header">
+  <!-- Logo circular -->
+  <div class="logo-container">
+    <img src="assets/logo.png" alt="Logo" class="logo" />
+  </div>
+
+  <!-- Título centrado -->
+  <h1 class="title">Gestión de Productos y Categorías</h1>
+
+  <!-- Botón de contacto -->
+  <div class="actions">
+    <a routerLink="/contact" class="contact-btn">Contacto</a>
+  </div>
+</header>
+
+<!-- Barra de navegación principal -->
+<nav class="main-nav">
+  <a routerLink="" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
+  <a routerLink="/products" routerLinkActive="active">Productos</a>
+  <a routerLink="/categories" routerLinkActive="active">Categorías</a>
+</nav>

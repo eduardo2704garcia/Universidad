@@ -1,0 +1,65 @@
+<div class="container">
+  <h2>Gestión de Categorías</h2>
+
+  <!-- Formulario para crear categoría -->
+  <form [formGroup]="newForm" (ngSubmit)="onCreate()" class="form">
+    <input formControlName="name" placeholder="Nombre de la categoría" />
+    <input formControlName="description" placeholder="Descripción" />
+    <button type="submit" [disabled]="newForm.invalid" class="btn add-btn">
+      <i class="bi bi-plus-circle"></i> Añadir
+    </button>
+  </form>
+
+  <!-- Tabla de categorías -->
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Descripción</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let c of categories">
+        <td *ngIf="editingId !== c.id">{{ c.name }}</td>
+        <td *ngIf="editingId !== c.id">{{ c.description }}</td>
+        <td *ngIf="editingId !== c.id">
+          <div class="action-buttons">
+            <button class="btn edit-btn" (click)="onEdit(c)">
+              <i class="bi bi-pencil-square"></i> Editar
+            </button>
+            <button class="btn delete-btn" (click)="onDelete(c.id!)">
+              <i class="bi bi-trash"></i> Eliminar
+            </button>
+          </div>
+        </td>
+
+        <!-- Fila de edición -->
+        <ng-container *ngIf="editingId === c.id">
+          <td colspan="3">
+            <form [formGroup]="editForm" (ngSubmit)="onUpdate()" class="form edit-form">
+              <input formControlName="name" placeholder="Nombre" />
+              <input formControlName="description" placeholder="Descripción" />
+              <div class="action-buttons">
+                <button type="submit" class="btn save-btn">
+                  <i class="bi bi-check-circle"></i> Guardar
+                </button>
+                <button type="button" class="btn cancel-btn" (click)="onCancel()">
+                  <i class="bi bi-x-circle"></i> Cancelar
+                </button>
+              </div>
+            </form>
+          </td>
+        </ng-container>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Cards de categorías -->
+  <div class="cards">
+    <div class="card" *ngFor="let c of categories">
+      <h3>{{ c.name }}</h3>
+      <p>{{ c.description }}</p>
+    </div>
+  </div>
+</div>

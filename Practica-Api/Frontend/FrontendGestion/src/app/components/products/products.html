@@ -1,0 +1,70 @@
+<div class="container">
+  <h2>Gestión de Productos</h2>
+
+  <!-- ▶ Formulario para crear producto -->
+  <form [formGroup]="newForm" (ngSubmit)="onCreate()" class="form">
+    <input formControlName="name" placeholder="Nombre del producto" />
+    <input formControlName="description" placeholder="Descripción" />
+    <input formControlName="price" type="number" placeholder="Precio" />
+    <button type="submit" [disabled]="newForm.invalid" class="add">
+      <i class="bi bi-plus-circle"></i> Añadir
+    </button>
+  </form>
+
+  <!-- ▶ Tabla de productos -->
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Descripción</th>
+        <th>Precio</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let p of products">
+        <td *ngIf="editingId !== p.id">{{ p.name }}</td>
+        <td *ngIf="editingId !== p.id">{{ p.description }}</td>
+        <td *ngIf="editingId !== p.id">{{ p.price | currency:'USD' }}</td>
+        <td *ngIf="editingId !== p.id">
+          <div class="action-buttons">
+            <button class="edit" (click)="onEdit(p)">
+              <i class="bi bi-pencil-square"></i> Editar
+            </button>
+            <button class="delete" (click)="onDelete(p.id!)">
+              <i class="bi bi-trash"></i> Eliminar
+            </button>
+          </div>
+        </td>
+
+        <!-- Fila de edición -->
+        <ng-container *ngIf="editingId === p.id">
+          <td colspan="4">
+            <form [formGroup]="editForm" (ngSubmit)="onUpdate()" class="form edit-form">
+              <input formControlName="name" />
+              <input formControlName="description" />
+              <input formControlName="price" type="number" />
+              <div class="action-buttons">
+                <button type="submit" class="save">
+                  <i class="bi bi-check-circle"></i> Guardar
+                </button>
+                <button type="button" class="cancel" (click)="onCancel()">
+                  <i class="bi bi-x-circle"></i> Cancelar
+                </button>
+              </div>
+            </form>
+          </td>
+        </ng-container>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- ▶ Cards de productos -->
+  <div class="cards">
+    <div class="card" *ngFor="let p of products">
+      <h3>{{ p.name }}</h3>
+      <p>{{ p.description }}</p>
+      <p><strong>{{ p.price | currency:'USD' }}</strong></p>
+    </div>
+  </div>
+</div>

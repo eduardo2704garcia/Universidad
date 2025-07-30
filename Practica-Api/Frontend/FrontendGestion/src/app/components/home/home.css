@@ -1,0 +1,48 @@
+.home-container {
+  background-color: #E8FFD7;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  color: #3E5F44;
+}
+
+.section {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+.mission {
+  background-color: #93DA97;
+}
+
+.vision {
+  background-color: #5E936C;
+  color: white;
+}
+
+.actions {
+  background-color: #3E5F44;
+  color: white;
+}
+
+.actions .btn-group {
+  margin-top: 1rem;
+}
+
+.btn-group a.btn {
+  display: inline-block;
+  margin: 0 1rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #93DA97;
+  color: #3E5F44;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-group a.btn:hover {
+  background-color: #E8FFD7;
+  color: #3E5F44;
+}

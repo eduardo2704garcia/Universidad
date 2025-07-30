@@ -1,0 +1,67 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3E5F44;
+  color: white;
+  padding: 1rem 2rem;
+  border-bottom: 3px solid #5E936C;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.title {
+  flex: 1;
+  text-align: center;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.actions .contact-btn {
+  background-color: #93DA97;
+  color: #3E5F44;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.actions .contact-btn:hover {
+  background-color: #5E936C;
+  color: white;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background-color: #5E936C;
+  padding: 0.75rem 1rem;
+}
+
+.main-nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+.main-nav a:hover {
+  color: #E8FFD7;
+}
+
+.main-nav a.active {
+  border-bottom: 2px solid #E8FFD7;
+}

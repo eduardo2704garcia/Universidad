@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #3E5F44;
+  color: #E8FFD7;
+  font-size: 0.95rem;
+  border-top: 3px solid #5E936C;
+  margin-top: 3rem;
+}
+
+.footer .tech {
+  font-size: 0.85rem;
+  color: #93DA97;
+}
