@@ -53,13 +53,13 @@ Toda la aplicación es orquestada y ejecutada mediante Docker Compose.
 
 ```bash
 git clone 
-cd tu-repositorio
+cd https://github.com/eduardo2704garcia/Universidad.git
 ```
 
 ### 2️⃣ Levantar la Aplicación con Docker Compose
 
 ```bash
-docker compose up --build
+docker-compose -f docker-composeV2.yml up -d
 ```
 
 Esto levantará los siguientes servicios:
