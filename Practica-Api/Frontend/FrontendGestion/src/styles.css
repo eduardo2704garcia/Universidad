@@ -24,3 +24,14 @@ app-root {
   display: flex;
   flex-direction: column;
 }
+
+main {
+  flex: 1; 
+}
+
+footer {
+  background-color: #3E5F44;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}

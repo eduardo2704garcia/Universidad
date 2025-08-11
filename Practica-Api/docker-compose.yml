@@ -1,8 +1,8 @@
-version: '3.8'
+version: "3.8"
 
 services:
-  mysql:
-    image: mysql:8
+  db:
+    image: mysql:8.0
     container_name: test-db
     restart: always
     environment:
@@ -12,13 +12,18 @@ services:
       - "3307:3306"
     networks:
       - test-network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
-  products:
-    image: img-app-productos:V2
+  products-api:
+    image: eduardo2704garcia/products-api:v1
     container_name: c-app-products
-    restart: unless-stopped
+    restart: always
     environment:
-      DB_HOST: test-db:3306
+      DB_HOST: db
       DB_USER: root
       DB_PASSWORD: admin123
       DB_DATABASE: test
@@ -26,16 +31,17 @@ services:
     ports:
       - "8081:8003"
     depends_on:
-      - mysql
+      db:
+        condition: service_healthy
     networks:
       - test-network
 
-  categorias:
-    image: img-app-categorias:V2
+  categories-api:
+    image: eduardo2704garcia/categories-api:v2
     container_name: c-app-categorias
-    restart: unless-stopped
+    restart: always
     environment:
-      DB_HOST: test-db:3306
+      DB_HOST: db
       DB_USER: root
       DB_PASSWORD: admin123
       DB_DATABASE: test
@@ -43,16 +49,20 @@ services:
     ports:
       - "8082:8082"
     depends_on:
-      - mysql
+      db:
+        condition: service_healthy
     networks:
       - test-network
 
   frontend:
-    image: img-frontend-gestion:V2
+    image: eduardo2704garcia/frontend-gestion:V3
     container_name: c-frontend-gestion
-    restart: unless-stopped
+    restart: always
     ports:
       - "4200:80"
+    depends_on:
+      - products-api
+      - categories-api
     networks:
       - test-network
 
